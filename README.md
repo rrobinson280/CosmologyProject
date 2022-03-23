@@ -6,4 +6,4 @@ Programs are ready to run. When running FriedmannCOS.m or FriedmannLOOKBACK.m ma
 FriedmannCOS.m solves the Friedmann equation using cosmological time.
 FriedmannLOOKBACK.m solves the Friedmann equation using lookback time.
 
-FriedmannGeometries.m uses a different method of solving the Friedmann equation than FriedmannCOS.m and FriedmannLOOKBACK.m due to the nature MATLAB ODE solvers work.
+FriedmannGeometries.m uses a different method of solving the Friedmann equation than FriedmannCOS.m and FriedmannLOOKBACK.m due to the nature how MATLAB ODE solvers work.
